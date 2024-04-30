@@ -1,2 +1,2 @@
-# ZiellyCheese.github.io
+# ZiellyCheese
 A dedicated website for ZiellyCheese
