@@ -1,4 +1,11 @@
 /* styles.css */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
 
 body {
     font-family: Arial, sans-serif;
